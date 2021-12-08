@@ -20,7 +20,7 @@ public class Num_9020 {
 				}
 			}
 		}
-		while(t-->0) {
+		for(int i = 0; i<t; i++) {
 			num = Integer.parseInt(br.readLine());
 			int a = num/2;
 			int b = num/2;
